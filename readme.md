@@ -35,3 +35,8 @@ Git command-retrieve an entire repository from a hosted location via URL
 
 ##add [file]
 Git command-add a file as it looks now to your next commit (stage)
+
+##status
+Git command-show modified files in working directory, staged for your next commit
+
+
