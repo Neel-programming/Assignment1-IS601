@@ -33,4 +33,5 @@ Git command-initialize an existing directory as a Git repository
 ##clone [url]
 Git command-retrieve an entire repository from a hosted location via URL
 
-
+##add [file]
+Git command-add a file as it looks now to your next commit (stage)
