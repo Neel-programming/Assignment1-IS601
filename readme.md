@@ -48,4 +48,7 @@ Git command-list your branches. a * will appear next to the currently active bra
 ##branch [branch-name]
 Git command-create a new branch at the current commit
 
+##merge [branch]
+Git command-merge the specified branch’s history into the current one
+
 
