@@ -27,4 +27,7 @@ vi command-Change word(Esc)
 ##:wq
 vi command-Write to file and quit
 
+##init
+Git command-initialize an existing directory as a Git repository
+
 
