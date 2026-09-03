@@ -30,4 +30,7 @@ vi command-Write to file and quit
 ##init
 Git command-initialize an existing directory as a Git repository
 
+##clone [url]
+Git command-retrieve an entire repository from a hosted location via URL
+
 
