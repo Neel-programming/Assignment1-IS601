@@ -12,4 +12,7 @@ vi command-Insert before cursor
 ##a
 vi command-Append after cursor
 
+##o
+vi command-Open line below
+
 
