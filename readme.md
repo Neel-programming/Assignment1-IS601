@@ -9,4 +9,7 @@ Changes the current directory
 ##i
 vi command-Insert before cursor
 
+##a
+vi command-Append after cursor
+
 
