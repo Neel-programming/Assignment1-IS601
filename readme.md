@@ -15,4 +15,7 @@ vi command-Append after cursor
 ##o
 vi command-Open line below
 
+##O
+vi command-Open line above
+
 
