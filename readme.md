@@ -18,4 +18,5 @@ vi command-Open line below
 ##O
 vi command-Open line above
 
-
+##x file
+vi command-Insert file after current line
