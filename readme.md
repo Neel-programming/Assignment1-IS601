@@ -51,4 +51,6 @@ Git command-create a new branch at the current commit
 ##merge [branch]
 Git command-merge the specified branch’s history into the current one
 
+##log
+git command-show all commits in the current branch’s history
 
