@@ -42,4 +42,10 @@ Git command-show modified files in working directory, staged for your next commi
 ##checkout
 Git command-switch to another branch and check it out into your working directory
 
+##branch
+Git command-list your branches. a * will appear next to the currently active branch
+
+##branch [branch-name]
+Git command-create a new branch at the current commit
+
 
