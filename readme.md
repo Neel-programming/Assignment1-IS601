@@ -39,4 +39,7 @@ Git command-add a file as it looks now to your next commit (stage)
 ##status
 Git command-show modified files in working directory, staged for your next commit
 
+##checkout
+Git command-switch to another branch and check it out into your working directory
+
 
