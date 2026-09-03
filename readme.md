@@ -20,3 +20,8 @@ vi command-Open line above
 
 ##x file
 vi command-Insert file after current line
+
+##cw
+vi command-Change word(Esc) 
+
+
